@@ -1,4 +1,3 @@
-```markdown
 # SMS Spam Classification with BERT
 
 This repository presents an end-to-end NLP classification pipeline for detecting spam messages using a fine-tuned `bert-base-uncased` model.
